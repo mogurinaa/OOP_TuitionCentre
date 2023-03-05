@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class Main 
 {
-    //application code 
+    //application code
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);  // Create a Scanner object
         // var = sc.next();
